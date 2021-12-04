@@ -12,5 +12,7 @@ Keyboard inputs are supported for numbers, opertaors and other options.
 
 Comes with options to clear/delete a single input (backspace) OR clear the whole display.
 
+
 Acknowledgement
+
 Project inspiration from The Odin Project.
